@@ -1,0 +1,14 @@
+
+Prepayment policy
+- User will be provided prepayment service
+- User to verify satisfaction of features before paying
+
+Refund policy
+- Refund of amount paid not available
+- Adjustment if any will be done in future services
+
+Cancel policy
+- The user can cancel anytime
+- No refund will be given
+
+
