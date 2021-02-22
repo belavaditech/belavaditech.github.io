@@ -1,6 +1,6 @@
 
 Prepayment policy
-- User will be provided prepayment service
+- User will be provided few free prepayment service
 - User to verify satisfaction of features before paying
 
 Refund policy
