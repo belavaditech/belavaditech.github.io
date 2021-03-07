@@ -1,6 +1,6 @@
 
-About Your Account
-This user agreement will be effective for all users as of October 22, 2020.
+A) About Your Account
+This user agreement will be effective for all users as of March 7 2021
 
 Welcome to ThePaybox!
 
@@ -8,12 +8,12 @@ This user agreement is a contract between you and Belavadi Technology Solutions 
 
 You also agree to comply with the following additional policies and each of the other agreements on the Legal Agreements page that apply to you:
 
-Acceptable Use Policy
+B) Acceptable Use Policy
 Please read carefully all of the terms and conditions of this user agreement, the terms of these policies and each of the other agreements that apply to you.
 
 We may amend this user agreement and any of the policies listed above from time to time. The revised version will be effective at the time we post it, unless otherwise noted. If our changes reduce your rights or increase your responsibilities, we will post a notice on the Policy Updates page of our website and provide notice to you of at least 14 days. If you do not agree to the revised terms and conditions, you must stop using the ThePaybox services, close your account, and terminate your relationship with us without cost or penalty. This user agreement will continue to apply to your previous use of our services.
 
-About our main business
+C) About our main business
 
 ThePaybox is a Blockchain application services provider in India. Our services allow you to store nontamperable data in Blockchain using ThePaybox account,
 
@@ -22,7 +22,7 @@ ThePaybox may also provide payment receiving services in India.
 Not all ThePaybox services may be available to you and ThePaybox may at its discretion withdraw any service to you without notice. ThePaybox offers the following services in India:
 
 
-The Blockchaining of documents is available under 
+C-1) The Blockchaining of documents is available under 
 - daily free pool 
 - prepaid methods
 - subscription method
@@ -39,13 +39,25 @@ The Blockchaining of documents will be done using the Blockchain appropriate for
 
 Currently for free pool and personal the Blockchain used is DASH testnet.
 
-For corporate the Blockchain used will be DASH livenet.
+C-2) The Greeting on Blockchain is available under 
+- daily free pool 
+- prepaid methods
+- subscription method
 
-Payment receive service
+The daily free pool is limited and changes daily.
 
+The prepaid and subscription is available based on respective terms.
+
+
+C-3) For corporate the Blockchain used will be DASH livenet.
+- This will be provided on request basis only
+
+C-4) Payment receive service
 DASH livenet blockchain will be used for payment receiving for all accounts
+- This will be provided on request basis only
 
-Opening an Account
+
+D) Opening an Account
 We offer two types of accounts: personal accounts and business accounts.
 Thepaybox does not ask for users Blockchain private-key. Thepaybox uses the Blockchain address of user for record management.
 
@@ -57,7 +69,7 @@ Blockchaining will be done using individuals email-id.
 Business accounts
 
 
-Closing Your ThePaybox Account
+E) Closing Your ThePaybox Account
 You may close your account and terminate your relationship with us at any time without cost, but you will remain liable for all obligations related to your ThePaybox account even after the ThePaybox account is closed. When you close your ThePaybox account, we will cancel any scheduled or incomplete transactions.
 
 In certain cases, you may not close your ThePaybox account, including:
@@ -68,18 +80,18 @@ If your ThePaybox account has a negative balance.
 If your ThePaybox account is subject to a hold, limitation or reserve.
 Any funds we are holding for you at the time of closure of your ThePaybox account, less any fees, will be paid to you at our discretion by direct deposit to your linked bank account.
 
-Account Statements
+F) Account Statements
 You might be able to see record of your transaction in your account.
 
-Data and Service availability
+G) Data and Service availability
 
 The data availability is subject to availability of related
 - Blockchain used
 - The systems and infrastructure of service
 
-ThePaybox service will make available data in the website.
+H) ThePaybox service will make available data in the website.
 
-The access to data and service above 30 days is available on payment basis
+The access to data and service above 30 days is available on payment basis only.
 
 Certain amount of usage may be available for free access.
 
@@ -87,11 +99,11 @@ Currently the service is available for Beta usage. The features and services may
 
 The service may be shutdown for maintenance and update.
 
-Legal
+I) Legal
 
-ThePaybox Services in India are provided by Belavadi Technhology Solutions Private Limited. Users are advised to read the terms and conditions carefully.
+ThePaybox Services in India are provided by Belavadi Technology Solutions Private Limited. Users are advised to read the terms and conditions carefully.
 
 When you visit or interact with our sites, services, applications, tools or messaging, we or our authorised service providers may use cookies, web beacons, and other similar technologies for storing information to help provide you with a better, faster and safer experience and for advertising purposes. Learn more here.
 
-
+The terms are subject to changes. The users are advised to read on website for latest information.
 
